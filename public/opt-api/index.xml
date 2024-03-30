@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opt-Apis on opt-apps</title>
+    <link>http://localhost:1313/opt-api/</link>
+    <description>Recent content in Opt-Apis on opt-apps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 opt-apps.com | [Creative Commons License CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted | [Privacy](/privacy)</copyright>
+    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/opt-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dev Creature Comforts</title>
+      <link>http://localhost:1313/opt-api/lego-broker/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/opt-api/lego-broker/</guid>
+      <description>Extolling the value of tools like Git, fast code/text editors, exploratory data analysis (EDA) tools like GraphXR, whiteboarding tools like Whimsical, containerization, model/data separation and friendly syntax and naming conventions.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/opt-api/lego-broker/feature-04-coming-soon.png" />
+    </item>
+    
+    <item>
+      <title>Hey, Community!</title>
+      <link>http://localhost:1313/opt-api/energy-prosumer/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/opt-api/energy-prosumer/</guid>
+      <description>A call to the optimization community to build valuable resources together: models and integrations, open source solvers, a pro-bono project marketplace, tool-agnostic discussion forum(s).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/opt-api/energy-prosumer/feature-11-XX-coming-soon.png" />
+    </item>
+    
+  </channel>
+</rss>

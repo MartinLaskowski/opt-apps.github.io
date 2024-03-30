@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on opt-apps</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on opt-apps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 opt-apps.com | [Creative Commons License CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted | [Privacy](/privacy)</copyright>
+    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code &amp; Text Editors</title>
+      <link>http://localhost:1313/tags/code--text-editors/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/code--text-editors/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/tags/git/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/git/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GraphXR</title>
+      <link>http://localhost:1313/tags/graphxr/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/graphxr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>http://localhost:1313/tags/community/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/community/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Love</title>
+      <link>http://localhost:1313/tags/love/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/love/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

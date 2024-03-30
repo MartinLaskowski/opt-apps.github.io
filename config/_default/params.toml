@@ -1,0 +1,116 @@
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+
+enableSearch = true
+enableCodeCopy = true
+
+disableImageOptimization = false
+disableTextInHeader = true
+disableImageZoom = true
+
+defaultBackgroundImage = "/img/background.svg"
+#defaultFeaturedImage = "/img/background.svg"
+
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = false
+
+mainSections = ["projects"]
+
+[header]
+layout = "fixed" # options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+
+[footer]
+showMenu = true
+showCopyright = true
+showThemeAttribution = true
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "page" # options: page, profile, hero, card, background, custom
+homepageImage = "/img/background.svg" # used in: hero, card and background
+showRecent = true
+showRecentItems = 40
+showMoreLink = false
+showMoreLinkDest = "/projects"
+cardView = true
+cardViewScreenWidth = false
+layoutBackgroundBlur = true
+
+[article]
+showDate = false
+showViews = false
+showLikes = false
+showDateOnlyInArticle = false
+showDateUpdated = true
+showAuthor = true
+showHero = true
+heroStyle = "background" # options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = true
+showTaxonomies = true
+showZenMode = false
+showEdit = false
+#editURL = "https://github.com/opt-models/opt-models.github.io/tree/main/content"
+#editAppendPath = true
+showDraftLabel = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = true
+invertPagination = true
+showReadingTime = false
+showTableOfContents = true
+showAuthorsBadges = false
+showWordCount = false
+showRelatedContent = false
+sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+
+[list]
+showHero = true
+heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = true
+showSummary = true
+showViews = false
+showLikes = false
+showTableOfContents = true
+showCards = false
+groupByYear = false
+cardView = false
+cardViewScreenWidth = false
+constrainItemsWidth = false
+
+
+[sitemap]
+excludedKinds = []
+
+[taxonomy]
+showTermCount = true
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = false
+cardView = false
+
+[term]
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = false
+cardView = false
+cardViewScreenWidth = false
+
+[firebase]
+
+[fathomAnalytics]
+
+[buymeacoffee]
+
+[verification]
