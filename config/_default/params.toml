@@ -29,14 +29,14 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "page" # options: page, profile, hero, card, background, custom
-homepageImage = "/img/background.svg" # used in: hero, card and background
-showRecent = true
-showRecentItems = 40
-showMoreLink = false
-showMoreLinkDest = "/projects"
-cardView = true
-cardViewScreenWidth = false
+layout = "card" # options: page, profile, hero, card, background, custom
+homepageImage = "/img/graph.png" # used in: hero, card and background
+showRecent = false
+#showRecentItems = 40
+#showMoreLink = false
+#showMoreLinkDest = "/projects"
+#cardView = true
+#cardViewScreenWidth = false
 layoutBackgroundBlur = true
 
 [article]
@@ -54,8 +54,8 @@ showBreadcrumbs = true
 showTaxonomies = true
 showZenMode = false
 showEdit = false
-#editURL = "https://github.com/opt-models/opt-models.github.io/tree/main/content"
-#editAppendPath = true
+editURL = "https://github.com/opt-models/opt-models.github.io/tree/main/content"
+editAppendPath = true
 showDraftLabel = true
 seriesOpened = false
 showHeadingAnchors = true

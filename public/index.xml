@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>opt-apps</title>
+    <title>Welcome to opt-apps on opt-apps</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on opt-apps</description>
+    <description>Recent content in Welcome to opt-apps on opt-apps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 opt-apps.com | [Creative Commons License CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted | [Privacy](/privacy)</copyright>
     <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About opt-apps.com</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>Fast, large-scale mathematical optimization models drive our stock markets, route ambulances, fly drones, aim space telescopes and supply electricity: Optimization is important and beautiful.
-After six years at AMPL Optimization, Inc., I now consult on creation, speeding, reformulation, translation and integration of optimization applications into modern decision and real-time systems.</description>
-      
-    </item>
-    
     <item>
       <title>Privacy Policy</title>
       <link>http://localhost:1313/privacy/</link>

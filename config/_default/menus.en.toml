@@ -1,34 +1,16 @@
-[[main]]
-name = "opt-APIs"
-pageRef = "opt-APIs"
-pre = "star"
-weight = 1
-
-[[main]]
-name = "pro bono"
-pageRef = "pro-bono"
-pre = "heart"
-weight = 2
-
-[[main]]
-  name = "energy-prosumer"
-  parent = "opt-APIs"
-  pageRef = "/"
-  weight = 1
-[[main]]
-  name = "lego-broker"
-  parent = "opt-APIs"
-  pageRef = "/"
-  weight = 2
-
-
-[[main]]
-name = "about"
-pageRef = "about"
-weight = 3
-
-[[main]]
-name = "contact"
-pageRef = "contact"
-weight = 4
-
+#[[main]]
+#name = "opt-APIs"
+#pageRef = "opt-APIs"
+#pre = "star"
+#weight = 1
+#
+#[[main]]
+#  name = "energy-prosumer"
+#  parent = "opt-APIs"
+#  pageRef = "/"
+#  weight = 1
+#[[main]]
+#  name = "lego-broker"
+#  parent = "opt-APIs"
+#  pageRef = "/"
+#  weight = 2
